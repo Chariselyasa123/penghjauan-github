@@ -24,8 +24,8 @@ jobs:
           
       - name: Commit changes
         run: |
-          git config --local user.email "ryandevstudio@gmail.com"
-          git config --local user.name "nyancodeid"
+          git config --local user.email "ahmad.charis@raharja.info"
+          git config --local user.name "Chariselyasa123"
           git add -A
           
           arr[0]="feat: plant a tree 🌲"
